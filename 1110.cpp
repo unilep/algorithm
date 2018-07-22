@@ -2,7 +2,7 @@
 using namespace std;
 
 int N, t = -1, t2, ans;
-
+ 
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
